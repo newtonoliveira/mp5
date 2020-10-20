@@ -1,0 +1,30 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 567
+  ClientWidth = 321
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Align = Top
+    Size.Width = 321.000000000000000000
+    Size.Height = 505.000000000000000000
+    Size.PlatformDefault = False
+    Viewport.Width = 317.000000000000000000
+    Viewport.Height = 501.000000000000000000
+  end
+  object Button1: TButton
+    Position.Y = 504.000000000000000000
+    Size.Width = 321.000000000000000000
+    Size.Height = 65.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Teste'
+    OnClick = Button1Click
+  end
+end

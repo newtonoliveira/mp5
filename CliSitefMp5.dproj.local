@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/10 15:41:06.000.387,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/10 15:47:18.000.967,D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\Unit1.pas</Transaction>
+    <Transaction>2020/08/10 15:47:18.000.967,D:\Documentos\Embarcadero\Studio\Projects\Unit1.fmx=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\Unit1.fmx</Transaction>
+    <Transaction>2020/08/10 15:47:28.000.437,D:\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\CliSitefMp5.dproj</Transaction>
+    <Transaction>2020/08/10 15:53:16.000.298,=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\libs\clisitef-android.jar</Transaction>
+    <Transaction>2020/08/10 15:53:29.000.186,=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\clisitef.pas</Transaction>
+    <Transaction>2020/08/10 16:15:22.000.249,=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\CliSiTefI.pas</Transaction>
+    <Transaction>2020/08/10 16:16:23.000.096,D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\CliSiTefI.pas=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\wbt.CliSiTefI.pas</Transaction>
+    <Transaction>2020/08/10 16:18:13.000.765,=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\apoio.clisitef.pas</Transaction>
+    <Transaction>2020/08/10 19:14:38.000.395,=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\Unit2.pas</Transaction>
+    <Transaction>2020/08/10 19:14:45.000.598,D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\constants.pas=D:\Projetos\ProjetosAndroid\Delphi\CliSitef_MP5\Unit2.pas</Transaction>
+    <Transaction>2020/10/19 19:15:38.288,=C:\Users\newto\Dropbox\Minhas Palestras e Apresentações\EC2020\ex\ufrmMP5.pas</Transaction>
+    <Transaction>2020/10/19 19:23:15.713,C:\Users\newto\Dropbox\Minhas Palestras e Apresentações\EC2020\ex\Unit1.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="0067837265" Android64="0067837265"/>
+	</ActiveMobileDevice>
+</BorlandProject>
