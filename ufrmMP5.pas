@@ -142,7 +142,7 @@ begin
     procedure
     begin
       // Inicializa o SITEF
-      lsts := configuraIntSiTefInterativoEx('sitefdemo.pinpag.com.br', '00000000', '00000000', '');
+      lsts := configuraIntSiTefInterativoEx('45.237.81.1', '00000000', '00000000', '');
     end).Start;
 end;
 
